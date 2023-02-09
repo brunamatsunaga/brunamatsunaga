@@ -8,7 +8,7 @@
 <div> 
   <a href="https://github.com/brunamatsunaga">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=brunamatsunaga&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamatsunaga&layout=compact&langs_count=16&theme=prussian"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamatsunaga&layout=compact&langs_count=16&theme=prussian"/>
 </div> 
 
 <div style="display: inline_block"><br>
